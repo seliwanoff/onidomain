@@ -1,0 +1,24 @@
+{
+    "name": "domain",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview --port 5050"
+    },
+    "dependencies": {
+        "axios": "^0.26.1",
+        "vue": "^3.2.31",
+        "vue-number-format": "^1.2.1",
+        "vue-router": "^4.0.12",
+        "vue-spinner": "^1.0.4",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^2.2.2",
+        "autoprefixer": "^10.4.4",
+        "postcss": "^8.4.12",
+        "tailwindcss": "^3.0.23",
+        "vite": "^2.8.4"
+    }
+}
